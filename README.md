@@ -9,7 +9,6 @@ Một dự án landing page được xây dựng phục vụ cho cuộc thi Hack
 ## 🛠 Công nghệ sử dụng
 
 - ✅ HTML/CSS
-- ✅ JavaScript
 - ✅ Responsive Design (hỗ trợ di động)
 
 ## 💡 Tính năng chính
